@@ -1,0 +1,9 @@
+# Local database credentials (never commit this file)
+/db_config.php
+
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
